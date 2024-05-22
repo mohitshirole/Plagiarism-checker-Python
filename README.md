@@ -41,20 +41,4 @@ $ Plagiarism-checker-Python-> python3 app.py
 
 Would you like to use a Python library instead to help you compare strings and documents without spending time writing the vectorizers by yourself, then take a look at [Pysimilar](https://github.com/mohitshirole/Plagiarism-checker-Python).
 
-## Explore it 
-
-Explore it and twist it to your own use case. In case of any questions feel free to reach me directly at *isaackeinstein@gmail.com*.
-
-## Issues
-
-In case you have any difficulties or issues while trying to run the script
-you can raise an issue. 
-
-## Pull Requests
-
-If you have something to add, I welcome pull requests on improvement; your helpful contribution will be merged as soon as possible.
-
-## Give it a Star
-
-If you find this repo useful, give it a star so that many people can get to know it.
 
