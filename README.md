@@ -18,7 +18,7 @@ This repo contains a basic example on how to do that.
 To get started with the code on this repo, you need to either *clone* or *download* this repo into your machine as shown below;
 
 ```bash
-git clone https://github.com/Kalebu/Plagiarism-checker-Python
+https://github.com/mohitshirole/Plagiarism-checker-Python
 ```
 
 ## Dependencies
@@ -44,7 +44,7 @@ $ Plagiarism-checker-Python-> python3 app.py
 
 ## A Python Library?
 
-Would you like to use a Python library instead to help you compare strings and documents without spending time writing the vectorizers by yourself, then take a look at [Pysimilar](https://github.com/Kalebu/pysimilar).
+Would you like to use a Python library instead to help you compare strings and documents without spending time writing the vectorizers by yourself, then take a look at [Pysimilar](https://github.com/mohitshirole/Plagiarism-checker-Python).
 
 ## Explore it 
 
@@ -63,6 +63,3 @@ If you have something to add, I welcome pull requests on improvement; your helpf
 
 If you find this repo useful, give it a star so that many people can get to know it.
 
-## Credits
-
-All the credit goes to [kalebu](https://github.com/kalebu).
